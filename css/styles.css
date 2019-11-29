@@ -1,3 +1,17 @@
 h1 {
   color: magenta;
 }
+
+h3 {
+  color: #66BFBF;
+}
+
+body {
+  background-color: #ccffe6;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted grey 5px;
+  width: 10%;
+}
